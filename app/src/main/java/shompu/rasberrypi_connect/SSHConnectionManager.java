@@ -33,8 +33,8 @@ public class SSHConnectionManager {
     }
 
     String user = "pi";
-    String password = "Sampluto7";
-    String host = "192.168.225.141";
+    String password = "xxxxxxx";
+    String host = "PlutoBox";
     int port=22;
 
     public void executeSSHcommand(String command){
